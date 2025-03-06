@@ -21,3 +21,8 @@ Before running the script, ensure you have:
 - **GitHub API Token** (Replace `TOKEN` in `scripter3.py`)  
 - **`requests` and `PyGithub` Python modules** installed  
 - ** org.txt (List your org names in this file)
+
+
+## **📌 Excecution:**
+
+Run the Dependency_confusion_check.py Script and place the github org in org.txt
