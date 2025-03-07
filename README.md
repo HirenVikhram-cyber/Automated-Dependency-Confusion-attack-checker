@@ -25,4 +25,4 @@ Before running the script, ensure you have:
 
 ## **📌 Excecution:**
 
-Run the Dependency_confusion_check.py Script and place the github org in org.txt
+Run the Dependency_confusion_check.sh Script and place the github org in org.txt
